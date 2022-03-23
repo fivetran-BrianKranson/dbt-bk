@@ -1,9 +1,6 @@
 packages:
 #  - package: fivetran/github
 #    version: 0.2.1
-  - package: fivetran/fivetran_log
-#    version: 0.5.2
-    version: [">=0.5.2", "<=99.0.0"]
   - package: fishtown-analytics/dbt_utils
-#    version: 0.6.5
-    version: [">=0.6.5", "<=99.0.0"]
+    version: 0.6.5
+
